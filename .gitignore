@@ -1,0 +1,6 @@
+# This repository contains public distribution metadata only.
+# Keep application source and private signing keys outside this repository.
+*.key
+*.pem
+*.pfx
+*.p12
