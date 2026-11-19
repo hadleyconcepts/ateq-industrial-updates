@@ -4,7 +4,6 @@
     <item><title>ATEQ VT600 Series Tester 8.51.0</title><sparkle:version>8.51.0</sparkle:version>
       <description>ATEQ VT600 Series Tester 8.51.0: signed official update notifications and manual Check for updates. Adds the Modbus DLL selector for serial connections. V6 (Table VX) is the default. V7 (Table VX) and legacy 64-bit V5.2 are also included. Restart the app after changing the selection.</description>
       <pubDate>Thu, 19 Nov 2026 20:08:46 +0000</pubDate>
-      <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/hadleyconcepts/ateq-industrial-updates/releases/download/vt600-v8.51.0/vt600-8.51.0-Setup.exe" length="88412951" type="application/octet-stream" sparkle:os="windows-x64" sparkle:edSignature="HKdd5Ue7A57Fplew5USdgrIzzALgBxZ4xWRcauJL+TIP/YzPC2z46QGQ/+zvzIddVRfzeBSjt7A2gS7o5Ip6Bw==" />
     </item>
   </channel>
